@@ -1,0 +1,17 @@
+C:\Source\temperature-converter\temperature-converter\bin\Debug\net8.0-windows\temperature-converter.exe
+C:\Source\temperature-converter\temperature-converter\bin\Debug\net8.0-windows\temperature-converter.deps.json
+C:\Source\temperature-converter\temperature-converter\bin\Debug\net8.0-windows\temperature-converter.runtimeconfig.json
+C:\Source\temperature-converter\temperature-converter\bin\Debug\net8.0-windows\temperature-converter.dll
+C:\Source\temperature-converter\temperature-converter\bin\Debug\net8.0-windows\temperature-converter.pdb
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature_converter.frmMain.resources
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.csproj.GenerateResource.cache
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.AssemblyInfoInputs.cache
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.AssemblyInfo.cs
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.csproj.CoreCompileInputs.cache
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.sourcelink.json
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.dll
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\refint\temperature-converter.dll
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.pdb
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\temperature-converter.genruntimeconfig.cache
+C:\Source\temperature-converter\temperature-converter\obj\Debug\net8.0-windows\ref\temperature-converter.dll
