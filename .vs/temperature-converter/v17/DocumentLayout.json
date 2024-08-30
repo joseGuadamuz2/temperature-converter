@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Source\\temperature-converter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD8E293C-43F4-442B-B4D8-8AD0C3DBC178}|temperature-converter\\temperature-converter.csproj|c:\\source\\temperature-converter\\temperature-converter\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD8E293C-43F4-442B-B4D8-8AD0C3DBC178}|temperature-converter\\temperature-converter.csproj|solutionrelative:temperature-converter\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD8E293C-43F4-442B-B4D8-8AD0C3DBC178}|temperature-converter\\temperature-converter.csproj|c:\\source\\temperature-converter\\temperature-converter\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD8E293C-43F4-442B-B4D8-8AD0C3DBC178}|temperature-converter\\temperature-converter.csproj|solutionrelative:temperature-converter\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8E293C-43F4-442B-B4D8-8AD0C3DBC178}|temperature-converter\\temperature-converter.csproj|c:\\source\\temperature-converter\\temperature-converter\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8E293C-43F4-442B-B4D8-8AD0C3DBC178}|temperature-converter\\temperature-converter.csproj|solutionrelative:temperature-converter\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD8E293C-43F4-442B-B4D8-8AD0C3DBC178}|temperature-converter\\temperature-converter.csproj|C:\\Source\\temperature-converter\\temperature-converter\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Converter.cs",
               "DocumentMoniker": "C:\\Source\\temperature-converter\\temperature-converter\\Converter.cs",
               "RelativeDocumentMoniker": "temperature-converter\\Converter.cs",
               "ToolTip": "C:\\Source\\temperature-converter\\temperature-converter\\Converter.cs",
               "RelativeToolTip": "temperature-converter\\Converter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA0AAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwEUAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T22:45:38.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmMain.cs",
               "DocumentMoniker": "C:\\Source\\temperature-converter\\temperature-converter\\frmMain.cs",
               "RelativeDocumentMoniker": "temperature-converter\\frmMain.cs",
               "ToolTip": "C:\\Source\\temperature-converter\\temperature-converter\\frmMain.cs",
               "RelativeToolTip": "temperature-converter\\frmMain.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAYAAAAuAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T21:13:44.291Z",
               "EditorCaption": ""

@@ -4,24 +4,41 @@ namespace temperature_converter
     {
         #region 
 
+
+        /// <summary>
+        /// Object that handles temperature conversion between Celsius and Fahrenheit.
+        /// </summary>
+        
         Converter converter = new Converter();
+
+        /// <summary>
+        /// Flag to prevent recursion in text change events.
+        /// </summary
+        
         private bool activate = false;
         #endregion
 
         /// <summary>
-        /// Convierte una temperatura de Celsius a Fahrenheit.
+        /// Main From to manage texbox
         /// </summary>
+    
         public frmMain()
         {
             InitializeComponent();
-            txtCelsius.Text = "0";
-            txtFahrenheit.Text = "32";
-            txtCelsius.MaxLength = 4;
-            txtFahrenheit.MaxLength = 4;
+            txtCelsius.Text = "0"; //initial Value
+            txtFahrenheit.Text = "32"; //initial value
+            txtCelsius.MaxLength = 4; // max input control
+            txtFahrenheit.MaxLength = 4;// max input control
 
         }
 
         #region methods
+
+        /// <summary>
+        /// Convert string number to float number
+        /// </summary>
+        /// /// <param name="data">The string to validate</param>
+
         public float NumberValidation(string data)
         {
             if (!float.TryParse(data, out float dataDouble))
@@ -37,6 +54,11 @@ namespace temperature_converter
         #endregion
 
         #region events
+
+        /// <summary>
+        /// TextChanged event that belongs to the Celsius textbox.
+        /// </summary>
+        /// 
         private void txtCentigrade_TextChanged(object sender, EventArgs e)
         {
             if (activate) return; 
@@ -47,16 +69,23 @@ namespace temperature_converter
 
         }
 
+        /// <summary>
+        /// TextChanged event that belongs to the Fahrenheit textbox.
+        /// </summary>
+
         private void txtFahrenheit_TextChanged(object sender, EventArgs e)
         {
-            if (activate) return; // Evitar recursividad
-
-            activate = true; // Marcar el inicio de la actualización
+            if (activate) return; 
+            activate = true; 
             converter.ConvertFahrenheitToCelsius(NumberValidation(txtFahrenheit.Text));
             txtCelsius.Text = converter.Celsius.ToString();
-            activate = false; // Marcar el fin de la actualización
+            activate = false; 
         }
 
+        /// <summary>
+        /// Event for close form.
+        /// </summary>
+        
         private void btnAccept_Click(object sender, EventArgs e)
         {
             Close();
